@@ -13,8 +13,8 @@ F5            = True
 NAV           = True
 
 ##GSI FTP setting
-Username      = 'ozeki'
-Password      = 'A!Y2CaK6SeKtSqS'
+Username      = None
+Password      = None
 Host          = 'terras.gsi.go.jp'
 
 #Date
